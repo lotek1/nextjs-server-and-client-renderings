@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main {
+  margin: 0% 20%;
+}
+button {
+  margin: 20px;
+}
+nav {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(12, 101, 109);
+}
