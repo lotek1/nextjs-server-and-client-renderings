@@ -1,4 +1,4 @@
-# Project Title
+# Client or Server renderings
 
 Three ways to render a Next.js list of movies:
 
